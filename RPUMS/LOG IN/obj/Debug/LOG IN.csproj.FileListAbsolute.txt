@@ -1,0 +1,16 @@
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.csproj.AssemblyReference.cache
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.csproj.SuggestedBindingRedirects.cache
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG_IN.Form1.resources
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG_IN.Form2.resources
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG_IN.Form3.resources
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG_IN.Form4.resources
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG_IN.Properties.Resources.resources
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.csproj.GenerateResource.cache
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.csproj.CoreCompileInputs.cache
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\bin\Debug\LOG IN.exe.config
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\bin\Debug\LOG IN.exe
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\bin\Debug\LOG IN.pdb
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\bin\Debug\MySql.Data.dll
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.csproj.CopyComplete
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.exe
+C:\Users\leinn\Documents\BSIT\c# codes\UPDATE DELETE\LOG IN\LOG IN\obj\Debug\LOG IN.pdb
